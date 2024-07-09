@@ -1,0 +1,1 @@
+ This project counts the number of words in a sentence entered by the user.
